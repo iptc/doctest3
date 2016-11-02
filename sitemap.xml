@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://iptc.github.io/doctest3//</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//qstext/guide/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//qstext/examples/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//qsphoto/guide/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//qsphoto/examples/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//about/license/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://iptc.github.io/doctest3//about/iptc/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
