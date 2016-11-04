@@ -1,4 +1,4 @@
-# IPTC Doctest2 - using MkDocs
+# IPTC Doctest3 - using MkDocs
 
 This repository is made for testing the maintenance of documenting an IPTC standard by i/ a Github respository with a gh-pages branch and the associated web server and ii/ [MkDocs](http://www.mkdocs.org/) as tool for creating the HTML content.
 
