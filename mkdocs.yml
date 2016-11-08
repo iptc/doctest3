@@ -1,0 +1,18 @@
+site_name: IPTC Docu Test
+site_url: https://iptc.github.io/doctest3/
+site_dir: 'gh-pages'
+repo_name: 'GitHub'
+repo_url: https://github.com/iptc/doctest3/
+pages:
+- Home: 'index.md'
+- Quick Start Text:
+  - 'Guide': 'qstext/guide.md'
+  - 'Examples': 'qstext/examples.md'
+- Quick Start Photo:
+  - 'Guide': 'qsphoto/guide.md'
+  - 'Examples': 'qsphoto/examples.md'
+- About:
+  - 'License': 'about/license.md'
+  - 'IPTC' : 'about/iptc.md'
+theme: readthedocs
+ 
